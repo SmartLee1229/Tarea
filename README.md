@@ -130,6 +130,6 @@ Hola desde Docker 🐳
 
 ### 📦 5. Enlace al repositorio
 
-🔗 **Repositorio en GitHub:** [https://github.com/AndresPadilla/tarea](https://github.com/AndresPadilla/tarea)
+🔗 **Repositorio en GitHub:** [https://github.com/SmartLee1229/tarea](https://github.com/SmartLee1229/tarea)
 
 ---
